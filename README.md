@@ -19,7 +19,7 @@ Canpai
 リモートワークが増えてきている状況で、気軽に知らない人と出会うことができるツールが必要だと感じたため
 
 # 洗い出した要件
-
+https://docs.google.com/spreadsheets/d/1Coa1SEH4VNCbSs0uUCpSdVaJphWu_dbvHVX4zaKX7Ig/edit?usp=sharing
 
 # 実装した機能についての画像やGIFおよびその説明
 
